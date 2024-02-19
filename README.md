@@ -1,2 +1,4 @@
 # test-demo
-This is the forst Repository
+This is the first Repository
+Author - Prasun Ranjan
+
